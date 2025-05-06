@@ -1,0 +1,7 @@
+README.md
+setup.py
+PaqueteDemo-/__init__.py
+PaqueteDemo.egg-info/PKG-INFO
+PaqueteDemo.egg-info/SOURCES.txt
+PaqueteDemo.egg-info/dependency_links.txt
+PaqueteDemo.egg-info/top_level.txt
